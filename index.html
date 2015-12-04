@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=0">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script src="js/main.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/main.css" />
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+    <script src="json/expenses_revenue.js"></script>
+    <script src="json/assets_liabilities.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div id="afr-chart-app">
+            <label for="afr-data-type">Type</label>
+            <select id="afr-data-type" class="form-control">
+                <option value="expenses">Expenses</option>
+                <option value="revenues">Revenues</option>
+                <option value="net cost">Net Cost</option>
+                <option value="assets">Assets</option>
+                <option value="liabilities">Liabilities</option>
+                <option value="net position">Net Position</option>
+            </select>
+            <label for="afr-data-breakdown">Breakdown</label>
+            <select id="afr-data-breakdown" class="form-control">
+                <option value="over time">Over Time</option>
+                <option value="by fund">By Fund</option>
+            </select>
+            <label for="afr-data-year">Year</label>
+            <select id="afr-data-year" class="form-control">
+                <option value="2015">2015</option>
+                <option value="2014">2014</option>
+                <option value="2013">2013</option>
+                <option value="2012">2012</option>
+                <option value="2011">2011</option>
+            </select>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,979 @@
+[
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"1,132 "," ABS amount ":" 1,132 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"1,303 "," ABS amount ":" 1,303 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"2 "," ABS amount ":" 2 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Inventories","Level 2":"","Amount":"21 "," ABS amount ":" 21 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"114 "," ABS amount ":" 114 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Other Assets","Level 2":"","Amount":"79 "," ABS amount ":" 79 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"5 "," ABS amount ":" 5 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Telecommunications and ADP Equipment","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Motor Vehicles","Amount":"3,473 "," ABS amount ":" 3,473 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"52 "," ABS amount ":" 52 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"3 "," ABS amount ":" 3 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(23)"," ABS amount ":" 23 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,004)"," ABS amount ":" 1,004 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(4)"," ABS amount ":" 4 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(9)"," ABS amount ":" 9 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(26)"," ABS amount ":" 26 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(29)"," ABS amount ":" 29 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(56)"," ABS amount ":" 56 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"7,816 "," ABS amount ":" 7,816 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"516 "," ABS amount ":" 516 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Inventories","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"17 "," ABS amount ":" 17 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Other Assets","Level 2":"","Amount":"207 "," ABS amount ":" 207 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Buildings","Amount":"20,876 "," ABS amount ":" 20,876 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"57 "," ABS amount ":" 57 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Other Equipment","Amount":"39 "," ABS amount ":" 39 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Land","Level 2":"","Amount":"1,692 "," ABS amount ":" 1,692 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"1,131 "," ABS amount ":" 1,131 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(25)"," ABS amount ":" 25 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(974)"," ABS amount ":" 974 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(294)"," ABS amount ":" 294 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Intragovernmental Debt","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(24)"," ABS amount ":" 24 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(2,171)"," ABS amount ":" 2,171 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Capital Lease and Installment Purchase Liability","Level 2":"","Amount":"(551)"," ABS amount ":" 551 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(81)"," ABS amount ":" 81 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(47)"," ABS amount ":" 47 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Judgment Fund Liability","Level 2":"","Amount":"(457)"," ABS amount ":" 457 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Unamortized Rent Abatement Liability","Level 2":"","Amount":"(416)"," ABS amount ":" 416 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(29)"," ABS amount ":" 29 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Other Funds","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"800 "," ABS amount ":" 800 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"5 "," ABS amount ":" 5 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"24 "," ABS amount ":" 24 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Other Funds","Level 1":"Other Assets","Level 2":"","Amount":"8 "," ABS amount ":" 8 "}
+,
+{"Year":"2015","Category":"Assets","Fund":"Other Funds","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"55 "," ABS amount ":" 55 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(19)"," ABS amount ":" 19 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(11)"," ABS amount ":" 11 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(26)"," ABS amount ":" 26 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(95)"," ABS amount ":" 95 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Other Funds","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(69)"," ABS amount ":" 69 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Other Funds","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(15)"," ABS amount ":" 15 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Other Funds","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(29)"," ABS amount ":" 29 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deposit Fund Liability","Level 2":"","Amount":"(44)"," ABS amount ":" 44 "}
+,
+{"Year":"2015","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Liabilities","Level 2":"","Amount":"(30)"," ABS amount ":" 30 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"1,130 "," ABS amount ":" 1,130 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"1,641 "," ABS amount ":" 1,641 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"2 "," ABS amount ":" 2 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Inventories","Level 2":"","Amount":"42 "," ABS amount ":" 42 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"109 "," ABS amount ":" 109 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Other Assets","Level 2":"","Amount":"47 "," ABS amount ":" 47 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"8 "," ABS amount ":" 8 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Telecommunications and ADP Equipment","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Motor Vehicles","Amount":"3,385 "," ABS amount ":" 3,385 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"36 "," ABS amount ":" 36 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"14 "," ABS amount ":" 14 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(23)"," ABS amount ":" 23 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,138)"," ABS amount ":" 1,138 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(6)"," ABS amount ":" 6 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(9)"," ABS amount ":" 9 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(30)"," ABS amount ":" 30 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(28)"," ABS amount ":" 28 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(11)"," ABS amount ":" 11 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"6,819 "," ABS amount ":" 6,819 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"495 "," ABS amount ":" 495 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"2 "," ABS amount ":" 2 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Inventories","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"24 "," ABS amount ":" 24 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Other Assets","Level 2":"","Amount":"215 "," ABS amount ":" 215 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Buildings","Amount":"21,087 "," ABS amount ":" 21,087 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"71 "," ABS amount ":" 71 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Other Equipment","Amount":"58 "," ABS amount ":" 58 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Land","Level 2":"","Amount":"1,645 "," ABS amount ":" 1,645 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"1,374 "," ABS amount ":" 1,374 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(25)"," ABS amount ":" 25 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(966)"," ABS amount ":" 966 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(311)"," ABS amount ":" 311 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Intragovernmental Debt","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(23)"," ABS amount ":" 23 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(2,397)"," ABS amount ":" 2,397 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Capital Lease and Installment Purchase Liability","Level 2":"","Amount":"(518)"," ABS amount ":" 518 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(86)"," ABS amount ":" 86 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(47)"," ABS amount ":" 47 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Judgment Fund Liability","Level 2":"","Amount":"(443)"," ABS amount ":" 443 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Unamortized Rent Abatement Liability","Level 2":"","Amount":"(387)"," ABS amount ":" 387 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(31)"," ABS amount ":" 31 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Other Funds","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"749 "," ABS amount ":" 749 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"7 "," ABS amount ":" 7 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"21 "," ABS amount ":" 21 "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Other Funds","Level 1":"Other Assets","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2014","Category":"Assets","Fund":"Other Funds","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"50 "," ABS amount ":" 50 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(11)"," ABS amount ":" 11 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(8)"," ABS amount ":" 8 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(23)"," ABS amount ":" 23 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(73)"," ABS amount ":" 73 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Other Funds","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(69)"," ABS amount ":" 69 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Other Funds","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(17)"," ABS amount ":" 17 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Other Funds","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(31)"," ABS amount ":" 31 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deposit Fund Liability","Level 2":"","Amount":"(42)"," ABS amount ":" 42 "}
+,
+{"Year":"2014","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Liabilities","Level 2":"","Amount":"(22)"," ABS amount ":" 22 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"1,414 "," ABS amount ":" 1,414 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"1,378 "," ABS amount ":" 1,378 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Inventories","Level 2":"","Amount":"99 "," ABS amount ":" 99 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"91 "," ABS amount ":" 91 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Other Assets","Level 2":"","Amount":"25 "," ABS amount ":" 25 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"14 "," ABS amount ":" 14 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Telecommunications and ADP Equipment","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Motor Vehicles","Amount":"3,153 "," ABS amount ":" 3,153 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"50 "," ABS amount ":" 50 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"11 "," ABS amount ":" 11 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(27)"," ABS amount ":" 27 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(999)"," ABS amount ":" 999 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(4)"," ABS amount ":" 4 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(10)"," ABS amount ":" 10 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(32)"," ABS amount ":" 32 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(32)"," ABS amount ":" 32 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(9)"," ABS amount ":" 9 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"7,964 "," ABS amount ":" 7,964 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"699 "," ABS amount ":" 699 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Inventories","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"11 "," ABS amount ":" 11 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Other Assets","Level 2":"","Amount":"169 "," ABS amount ":" 169 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Buildings","Amount":"20,355 "," ABS amount ":" 20,355 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"84 "," ABS amount ":" 84 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Other Equipment","Amount":"71 "," ABS amount ":" 71 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Land","Level 2":"","Amount":"1,652 "," ABS amount ":" 1,652 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"2,382 "," ABS amount ":" 2,382 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(89)"," ABS amount ":" 89 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,072)"," ABS amount ":" 1,072 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(123)"," ABS amount ":" 123 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Intragovernmental Debt","Level 2":"","Amount":"(1,733)"," ABS amount ":" 1,733 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(23)"," ABS amount ":" 23 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(1,884)"," ABS amount ":" 1,884 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Capital Lease and Installment Purchase Liability","Level 2":"","Amount":"(361)"," ABS amount ":" 361 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(90)"," ABS amount ":" 90 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(53)"," ABS amount ":" 53 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Judgment Fund Liability","Level 2":"","Amount":"(424)"," ABS amount ":" 424 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Unamortized Rent Abatement Liability","Level 2":"","Amount":"(353)"," ABS amount ":" 353 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(48)"," ABS amount ":" 48 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Other Funds","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"581 "," ABS amount ":" 581 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"13 "," ABS amount ":" 13 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"12 "," ABS amount ":" 12 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Other Funds","Level 1":"Other Assets","Level 2":"","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2013","Category":"Assets","Fund":"Other Funds","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"52 "," ABS amount ":" 52 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(7)"," ABS amount ":" 7 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(14)"," ABS amount ":" 14 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(17)"," ABS amount ":" 17 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(46)"," ABS amount ":" 46 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Other Funds","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(75)"," ABS amount ":" 75 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Other Funds","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(17)"," ABS amount ":" 17 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Other Funds","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(21)"," ABS amount ":" 21 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deposit Fund Liability","Level 2":"","Amount":"(34)"," ABS amount ":" 34 "}
+,
+{"Year":"2013","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Liabilities","Level 2":"","Amount":"(19)"," ABS amount ":" 19 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"1,095 "," ABS amount ":" 1,095 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"1,353 "," ABS amount ":" 1,353 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Inventories","Level 2":"","Amount":"151 "," ABS amount ":" 151 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"95 "," ABS amount ":" 95 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Other Assets","Level 2":"","Amount":"57 "," ABS amount ":" 57 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"12 "," ABS amount ":" 12 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Telecommunications and ADP Equipment","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Motor Vehicles","Amount":"3,174 "," ABS amount ":" 3,174 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"56 "," ABS amount ":" 56 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"22 "," ABS amount ":" 22 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(24)"," ABS amount ":" 24 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(907)"," ABS amount ":" 907 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(14)"," ABS amount ":" 14 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(30)"," ABS amount ":" 30 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(34)"," ABS amount ":" 34 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(8)"," ABS amount ":" 8 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"7,813 "," ABS amount ":" 7,813 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"577 "," ABS amount ":" 577 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"3 "," ABS amount ":" 3 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Inventories","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"19 "," ABS amount ":" 19 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Other Assets","Level 2":"","Amount":"129 "," ABS amount ":" 129 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Buildings","Amount":"18,068 "," ABS amount ":" 18,068 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"100 "," ABS amount ":" 100 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"86 "," ABS amount ":" 86 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Land","Level 2":"","Amount":"1,602 "," ABS amount ":" 1,602 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"4,352 "," ABS amount ":" 4,352 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(54)"," ABS amount ":" 54 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,099)"," ABS amount ":" 1,099 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Intragovernmental Debt","Level 2":"","Amount":"(1,819)"," ABS amount ":" 1,819 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(118)"," ABS amount ":" 118 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(119)"," ABS amount ":" 119 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Capital Lease and Installment Purchase Liability","Level 2":"","Amount":"(404)"," ABS amount ":" 404 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(87)"," ABS amount ":" 87 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(54)"," ABS amount ":" 54 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(25)"," ABS amount ":" 25 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Judgment Fund Liability","Level 2":"","Amount":"(424)"," ABS amount ":" 424 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Unamortized Rent Abatement Liability","Level 2":"","Amount":"(292)"," ABS amount ":" 292 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Other Funds","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"604 "," ABS amount ":" 604 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"8 "," ABS amount ":" 8 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"17 "," ABS amount ":" 17 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Other Funds","Level 1":"Other Assets","Level 2":"","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Other Funds","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"43 "," ABS amount ":" 43 "}
+,
+{"Year":"2012","Category":"Assets","Fund":"Other Funds","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"9 "," ABS amount ":" 9 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(12)"," ABS amount ":" 12 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(9)"," ABS amount ":" 9 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":""," ABS amount ":" -   "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(85)"," ABS amount ":" 85 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Other Funds","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(102)"," ABS amount ":" 102 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Other Funds","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(16)"," ABS amount ":" 16 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Other Funds","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(22)"," ABS amount ":" 22 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deposit Fund Liability","Level 2":"","Amount":"(31)"," ABS amount ":" 31 "}
+,
+{"Year":"2012","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Liabilities","Level 2":"","Amount":"(18)"," ABS amount ":" 18 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"1,224 "," ABS amount ":" 1,224 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"1,474 "," ABS amount ":" 1,474 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Inventories","Level 2":"","Amount":"207 "," ABS amount ":" 207 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"105 "," ABS amount ":" 105 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Other Assets","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"11 "," ABS amount ":" 11 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Telecommunications and ADP Equipment","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Motor Vehicles","Amount":"3,177 "," ABS amount ":" 3,177 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"39 "," ABS amount ":" 39 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"20 "," ABS amount ":" 20 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(26)"," ABS amount ":" 26 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,264)"," ABS amount ":" 1,264 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(10)"," ABS amount ":" 10 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(9)"," ABS amount ":" 9 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(29)"," ABS amount ":" 29 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(34)"," ABS amount ":" 34 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(8)"," ABS amount ":" 8 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"9,451 "," ABS amount ":" 9,451 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"558 "," ABS amount ":" 558 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"5 "," ABS amount ":" 5 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Inventories","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"21 "," ABS amount ":" 21 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Other Assets","Level 2":"","Amount":"105 "," ABS amount ":" 105 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Buildings","Amount":"16,296 "," ABS amount ":" 16,296 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"108 "," ABS amount ":" 108 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"83 "," ABS amount ":" 83 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Land","Level 2":"","Amount":"1,547 "," ABS amount ":" 1,547 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"4,426 "," ABS amount ":" 4,426 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(65)"," ABS amount ":" 65 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,388)"," ABS amount ":" 1,388 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(23)"," ABS amount ":" 23 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Intragovernmental Debt","Level 2":"","Amount":"(1,898)"," ABS amount ":" 1,898 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(428)"," ABS amount ":" 428 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(112)"," ABS amount ":" 112 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Capital Lease and Installment Purchase Liability","Level 2":"","Amount":"(385)"," ABS amount ":" 385 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(87)"," ABS amount ":" 87 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(56)"," ABS amount ":" 56 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(277)"," ABS amount ":" 277 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Other Funds","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"607 "," ABS amount ":" 607 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"4 "," ABS amount ":" 4 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"25 "," ABS amount ":" 25 "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Other Funds","Level 1":"Other Assets","Level 2":"","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2011","Category":"Assets","Fund":"Other Funds","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"33 "," ABS amount ":" 33 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(11)"," ABS amount ":" 11 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(22)"," ABS amount ":" 22 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(33)"," ABS amount ":" 33 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Other Funds","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(100)"," ABS amount ":" 100 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Other Funds","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(16)"," ABS amount ":" 16 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Other Funds","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(22)"," ABS amount ":" 22 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deposit Fund Liability","Level 2":"","Amount":"(42)"," ABS amount ":" 42 "}
+,
+{"Year":"2011","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Liabilities","Level 2":"","Amount":"(51)"," ABS amount ":" 51 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"1,155 "," ABS amount ":" 1,155 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"1,262 "," ABS amount ":" 1,262 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Inventories","Level 2":"","Amount":"215 "," ABS amount ":" 215 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"97 "," ABS amount ":" 97 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Other Assets","Level 2":"","Amount":"16 "," ABS amount ":" 16 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"13 "," ABS amount ":" 13 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Telecommunications and ADP Equipment","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Motor Vehicles","Amount":"3,104 "," ABS amount ":" 3,104 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"34 "," ABS amount ":" 34 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"14 "," ABS amount ":" 14 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(27)"," ABS amount ":" 27 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,119)"," ABS amount ":" 1,119 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(13)"," ABS amount ":" 13 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(11)"," ABS amount ":" 11 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(31)"," ABS amount ":" 31 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(33)"," ABS amount ":" 33 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(20)"," ABS amount ":" 20 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"11,254 "," ABS amount ":" 11,254 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"479 "," ABS amount ":" 479 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Inventories","Level 2":"","Amount":"6 "," ABS amount ":" 6 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"20 "," ABS amount ":" 20 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Other Assets","Level 2":"","Amount":"48 "," ABS amount ":" 48 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Buildings","Amount":"15,910 "," ABS amount ":" 15,910 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"51 "," ABS amount ":" 51 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"57 "," ABS amount ":" 57 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Land","Level 2":"","Amount":"1,628 "," ABS amount ":" 1,628 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"2,828 "," ABS amount ":" 2,828 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(54)"," ABS amount ":" 54 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,235)"," ABS amount ":" 1,235 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(6)"," ABS amount ":" 6 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Intragovernmental Debt","Level 2":"","Amount":"(1,973)"," ABS amount ":" 1,973 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(389)"," ABS amount ":" 389 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(99)"," ABS amount ":" 99 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Capital Lease and Installment Purchase Liability","Level 2":"","Amount":"(408)"," ABS amount ":" 408 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(89)"," ABS amount ":" 89 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(55)"," ABS amount ":" 55 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(293)"," ABS amount ":" 293 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Other Funds","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"657 "," ABS amount ":" 657 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"3 "," ABS amount ":" 3 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"25 "," ABS amount ":" 25 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Other Funds","Level 1":"Other Assets","Level 2":"","Amount":"7 "," ABS amount ":" 7 "}
+,
+{"Year":"2010","Category":"Assets","Fund":"Other Funds","Level 1":"Property and Equipment - Net","Level 2":"","Amount":"40 "," ABS amount ":" 40 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(12)"," ABS amount ":" 12 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(23)"," ABS amount ":" 23 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(5)"," ABS amount ":" 5 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(58)"," ABS amount ":" 58 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Other Funds","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(105)"," ABS amount ":" 105 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Other Funds","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(15)"," ABS amount ":" 15 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Other Funds","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(22)"," ABS amount ":" 22 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deposit Fund Liability","Level 2":"","Amount":"(39)"," ABS amount ":" 39 "}
+,
+{"Year":"2010","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Liabilities","Level 2":"","Amount":"(50)"," ABS amount ":" 50 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"972 "," ABS amount ":" 972 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"1,174 "," ABS amount ":" 1,174 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Inventories","Level 2":"","Amount":"255 "," ABS amount ":" 255 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"79 "," ABS amount ":" 79 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Other Assets","Level 2":"","Amount":"4 "," ABS amount ":" 4 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"15 "," ABS amount ":" 15 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Telecommunications and ADP Equipment","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Motor Vehicles","Amount":"3,051 "," ABS amount ":" 3,051 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"46 "," ABS amount ":" 46 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"6 "," ABS amount ":" 6 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(23)"," ABS amount ":" 23 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,058)"," ABS amount ":" 1,058 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(24)"," ABS amount ":" 24 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(8)"," ABS amount ":" 8 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(32)"," ABS amount ":" 32 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(31)"," ABS amount ":" 31 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(1)"," ABS amount ":" 1 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"11,664 "," ABS amount ":" 11,664 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"481 "," ABS amount ":" 481 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Inventories","Level 2":"","Amount":"4 "," ABS amount ":" 4 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"6 "," ABS amount ":" 6 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"0 "," ABS amount ":" -   "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Other Assets","Level 2":"","Amount":"39 "," ABS amount ":" 39 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Buildings","Amount":"15,420 "," ABS amount ":" 15,420 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"56 "," ABS amount ":" 56 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"50 "," ABS amount ":" 50 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Land","Level 2":"","Amount":"1,582 "," ABS amount ":" 1,582 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"1,993 "," ABS amount ":" 1,993 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(55)"," ABS amount ":" 55 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,209)"," ABS amount ":" 1,209 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(7)"," ABS amount ":" 7 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Intragovernmental Debt","Level 2":"","Amount":"(2,037)"," ABS amount ":" 2,037 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(361)"," ABS amount ":" 361 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(103)"," ABS amount ":" 103 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Capital Lease and Installment Purchase Liability","Level 2":"","Amount":"(415)"," ABS amount ":" 415 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(89)"," ABS amount ":" 89 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(51)"," ABS amount ":" 51 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(236)"," ABS amount ":" 236 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Other Funds","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"678 "," ABS amount ":" 678 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"7 "," ABS amount ":" 7 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"31 "," ABS amount ":" 31 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Other Funds","Level 1":"Other Assets","Level 2":"","Amount":"108 "," ABS amount ":" 108 "}
+,
+{"Year":"2009","Category":"Assets","Fund":"Other Funds","Level 1":"Property and Equipment - Net","Level 2":"","Amount":"30 "," ABS amount ":" 30 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(36)"," ABS amount ":" 36 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(37)"," ABS amount ":" 37 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(8)"," ABS amount ":" 8 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(65)"," ABS amount ":" 65 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Other Funds","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(4)"," ABS amount ":" 4 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Other Funds","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(15)"," ABS amount ":" 15 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Other Funds","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(22)"," ABS amount ":" 22 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deposit Fund Liability","Level 2":"","Amount":"(54)"," ABS amount ":" 54 "}
+,
+{"Year":"2009","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Liabilities","Level 2":"","Amount":"(21)"," ABS amount ":" 21 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"720 "," ABS amount ":" 720 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"1225"," ABS amount ":" 1,225 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Inventories","Level 2":"","Amount":"246 "," ABS amount ":" 246 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"90 "," ABS amount ":" 90 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Other Assets","Level 2":"","Amount":"6 "," ABS amount ":" 6 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"16 "," ABS amount ":" 16 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Telecommunications and ADP Equipment","Amount":"3 "," ABS amount ":" 3 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Motor Vehicles","Amount":"2,943 "," ABS amount ":" 2,943 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"54 "," ABS amount ":" 54 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"3 "," ABS amount ":" 3 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(20)"," ABS amount ":" 20 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,044)"," ABS amount ":" 1,044 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(27)"," ABS amount ":" 27 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Public","Amount":"(1)"," ABS amount ":" 1 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(37)"," ABS amount ":" 37 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(8)"," ABS amount ":" 8 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(29)"," ABS amount ":" 29 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"5,765 "," ABS amount ":" 5,765 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"403 "," ABS amount ":" 403 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Inventories","Level 2":"","Amount":"6 "," ABS amount ":" 6 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"11 "," ABS amount ":" 11 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Public","Amount":"2 "," ABS amount ":" 2 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Other Assets","Level 2":"","Amount":"13 "," ABS amount ":" 13 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Buildings","Amount":"14,607 "," ABS amount ":" 14,607 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"61 "," ABS amount ":" 61 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"55 "," ABS amount ":" 55 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Land","Level 2":"","Amount":"1,507 "," ABS amount ":" 1,507 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"2,054 "," ABS amount ":" 2,054 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(58)"," ABS amount ":" 58 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(1,055)"," ABS amount ":" 1,055 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(11)"," ABS amount ":" 11 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Public","Amount":"(6)"," ABS amount ":" 6 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Intragovernmental Debt","Level 2":"","Amount":"(2,098)"," ABS amount ":" 2,098 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(330)"," ABS amount ":" 330 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(103)"," ABS amount ":" 103 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Capital Lease and Installment Purchase Liability","Level 2":"","Amount":"(405)"," ABS amount ":" 405 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(108)"," ABS amount ":" 108 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(47)"," ABS amount ":" 47 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(175)"," ABS amount ":" 175 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Other Funds","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"580 "," ABS amount ":" 580 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"5"," ABS amount ":" 5 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"31 "," ABS amount ":" 31 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Other Funds","Level 1":"Other Assets","Level 2":"","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2008","Category":"Assets","Fund":"Other Funds","Level 1":"Property and Equipment - Net","Level 2":"","Amount":"31 "," ABS amount ":" 31 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(14)"," ABS amount ":" 14 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(34)"," ABS amount ":" 34 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(19)"," ABS amount ":" 19 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(65)"," ABS amount ":" 65 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Other Funds","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(2)"," ABS amount ":" 2 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Other Funds","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(19)"," ABS amount ":" 19 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Other Funds","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(21)"," ABS amount ":" 21 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deposit Fund Liability","Level 2":"","Amount":"(55)"," ABS amount ":" 55 "}
+,
+{"Year":"2008","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Liabilities","Level 2":"","Amount":"(7)"," ABS amount ":" 7 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"782 "," ABS amount ":" 782 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"1,032 "," ABS amount ":" 1,032 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"4 "," ABS amount ":" 4 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Inventories","Level 2":"","Amount":"219 "," ABS amount ":" 219 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"78 "," ABS amount ":" 78 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Other Assets","Level 2":"","Amount":"8 "," ABS amount ":" 8 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"17 "," ABS amount ":" 17 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Telecommunications and ADP Equipment","Amount":"8 "," ABS amount ":" 8 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Motor Vehicles","Amount":"2,826 "," ABS amount ":" 2,826 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"58 "," ABS amount ":" 58 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Acquisition Services Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"6 "," ABS amount ":" 6 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(21)"," ABS amount ":" 21 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(940)"," ABS amount ":" 940 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(68)"," ABS amount ":" 68 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Public","Amount":"(1)"," ABS amount ":" 1 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(7)"," ABS amount ":" 7 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(37)"," ABS amount ":" 37 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Acquisition Services Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(29)"," ABS amount ":" 29 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"5,620 "," ABS amount ":" 5,620 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"334 "," ABS amount ":" 334 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Inventories","Level 2":"","Amount":"6 "," ABS amount ":" 6 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"22 "," ABS amount ":" 22 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Prepaid Expenses and Advances","Level 2":"Public","Amount":"1 "," ABS amount ":" 1 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Other Assets","Level 2":"","Amount":"27 "," ABS amount ":" 27 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Buildings","Amount":"14,150 "," ABS amount ":" 14,150 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Leasehold Improvements","Amount":"65 "," ABS amount ":" 65 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Property and Equipment - Net","Level 2":"Other","Amount":"49 "," ABS amount ":" 49 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Land","Level 2":"","Amount":"1,485 "," ABS amount ":" 1,485 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Federal Buildings Fund","Level 1":"Construction in Process and Software in Development","Level 2":"","Amount":"1,723 "," ABS amount ":" 1,723 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(61)"," ABS amount ":" 61 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(921)"," ABS amount ":" 921 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Federal","Amount":"(10)"," ABS amount ":" 10 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Deferred Revenues and Advances","Level 2":"Public","Amount":"(3)"," ABS amount ":" 3 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Intragovernmental Debt","Level 2":"","Amount":"(2,151)"," ABS amount ":" 2,151 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(291)"," ABS amount ":" 291 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(105)"," ABS amount ":" 105 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Capital Lease and Installment Purchase Liability","Level 2":"","Amount":"(427)"," ABS amount ":" 427 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(108)"," ABS amount ":" 108 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(43)"," ABS amount ":" 43 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Federal Buildings Fund","Level 1":"Other Liabilities","Level 2":"","Amount":"(155)"," ABS amount ":" 155 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Other Funds","Level 1":"Fund Balance with Treasury","Level 2":"","Amount":"609 "," ABS amount ":" 609 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Federal","Amount":"3 "," ABS amount ":" 3 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Other Funds","Level 1":"Prepaid Expenses and Advances","Level 2":"Federal","Amount":"3 "," ABS amount ":" 3 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Other Funds","Level 1":"Accounts Receivable - Net","Level 2":"Public","Amount":"32 "," ABS amount ":" 32 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Other Funds","Level 1":"Other Assets","Level 2":"","Amount":"2 "," ABS amount ":" 2 "}
+,
+{"Year":"2007","Category":"Assets","Fund":"Other Funds","Level 1":"Property and Equipment - Net","Level 2":"","Amount":"32 "," ABS amount ":" 32 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Federal","Amount":"(5)"," ABS amount ":" 5 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Other Funds","Level 1":"Accounts Payable and Accrued Expenses","Level 2":"Public","Amount":"(28)"," ABS amount ":" 28 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deferred Revenues and Advances","Level 2":"","Amount":"(33)"," ABS amount ":" 33 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Intragovernmental Liabilities","Level 2":"","Amount":"(62)"," ABS amount ":" 62 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Other Funds","Level 1":"Environmental and Disposal Liabilities","Level 2":"","Amount":"(24)"," ABS amount ":" 24 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Other Funds","Level 1":"Workers' Compensation Actuarial Liability","Level 2":"","Amount":"(20)"," ABS amount ":" 20 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Other Funds","Level 1":"Annual Leave Liability","Level 2":"","Amount":"(20)"," ABS amount ":" 20 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Other Funds","Level 1":"Deposit Fund Liability","Level 2":"","Amount":"(97)"," ABS amount ":" 97 "}
+,
+{"Year":"2007","Category":"Liabilities","Fund":"Other Funds","Level 1":"Other Liabilities","Level 2":"","Amount":"(7)"," ABS amount ":" 7 "}
+]
