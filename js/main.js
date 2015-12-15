@@ -34,7 +34,6 @@ function renderSubBreakdown(fund) {
             arr.push([subFund, AFRData[year][type][fund][subFund]])
         }
     }
-    console.log(arr)
     isSubBreakdown = true;
     var backText = 'Back to Funds';
     $('#afr-back').text(backText).show();
@@ -88,7 +87,6 @@ function renderChart() {
                     arr.push([year, AFRData[year][subType2].Total, AFRData[year][subType1].Total * -1])
                 }
             }
-            console.log(arr)
             doubleColumnChart(title, subType1, subType2, arr)
         } else {
             var data = AFRData;
@@ -105,22 +103,18 @@ function renderChart() {
 
 function populateYears() {
     var years = [];
-    console.log(AFRData)
     for (year in AFRData) {
         if (AFRData.hasOwnProperty(year)) {
             years.push(year)
         }
     }
     years = years.sort().reverse();
-    console.log('Added Years:', years)
     for (i in years) {
         $('#afr-data-year').append('<option value="' + years[i] + '">' + years[i] + '</option>')
     }
 }
 
 function pieChart(title, type, arr, colors, cursor) {
-
-    console.log('Pie Chart...')
 
     // Create the data table.
     var data = new google.visualization.DataTable();
@@ -143,7 +137,6 @@ function pieChart(title, type, arr, colors, cursor) {
         if (isSubBreakdown == false) {
             var selection = chart.getSelection()[0];
             var label = data.getFormattedValue(selection.row, 0);
-            console.log(label)
             renderSubBreakdown(label)
         }
 
@@ -196,12 +189,10 @@ function doubleColumnChart(title, subType1, subType2, arr) {
 
 function cursorPointer() {
     $('#afr-chart').css('cursor', 'pointer')
-    console.log('cursorPointer')
 }
 
 function cursorDefault() {
     $('#afr-chart').css('cursor', 'default')
-    console.log('cursorDefault')
 }
 /*
 function getIncomeData() {
