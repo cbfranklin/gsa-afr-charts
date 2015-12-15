@@ -3,6 +3,12 @@ google.charts.load('current', {
 });
 google.charts.setOnLoadCallback(googleReady);
 
+var chartColors = {
+    redWhiteBlue: ['#245286','#9D3E39','#999999'],
+    monoBlue: ['#245286','#58779A','#3981D2','#163353','#78A2D2'],
+    monoRed: ['#9D3E39','#AD7673','#E95C55','#6A2A26','#E99F9B']
+}
+
 var isSubBreakdown = false;
 
 function googleReady() {
@@ -32,7 +38,7 @@ function renderSubBreakdown(fund) {
     isSubBreakdown = true;
     var backText = 'Back to Funds';
     $('#afr-back').text(backText).show();
-    pieChart(title, type, arr, false)
+    pieChart(title, type, arr, chartColors.monoRed, false)
 }
 
 function renderChart() {
@@ -61,7 +67,7 @@ function renderChart() {
                 arr.push([fund, AFRData[year][type][fund].Total])
             }
         }
-        pieChart(title, type, arr, true)
+        pieChart(title, type, arr, chartColors.redWhiteBlue, true)
     }
     if (breakdown === 'Over Time') {
         $('#afr-data-year').attr('disabled', 'disabled')
@@ -112,7 +118,7 @@ function populateYears() {
     }
 }
 
-function pieChart(title, type, arr, cursor) {
+function pieChart(title, type, arr, colors, cursor) {
 
     console.log('Pie Chart...')
 
@@ -126,7 +132,8 @@ function pieChart(title, type, arr, cursor) {
     var options = {
         'title': title,
         'is3D': true,
-        'fontName': 'Source Sans Pro'
+        'fontName': 'Source Sans Pro',
+        'colors': colors
     };
 
     // Instantiate and draw our chart, passing in some options.
@@ -158,7 +165,8 @@ function columnChart(title, type, arr) {
     // Set chart options
     var options = {
         'title': title,
-        'fontName': 'Source Sans Pro'
+        'fontName': 'Source Sans Pro',
+        'colors': chartColors.redWhiteBlue
     };
 
     // Instantiate and draw our chart, passing in some options.
@@ -177,7 +185,8 @@ function doubleColumnChart(title, subType1, subType2, arr) {
     // Set chart options
     var options = {
         'title': title,
-        'fontName': 'Source Sans Pro'
+        'fontName': 'Source Sans Pro',
+        'colors': chartColors.redWhiteBlue
     };
 
     // Instantiate and draw our chart, passing in some options.
