@@ -13,7 +13,7 @@ function googleReady() {
     populateYears();
     renderChart();
     $('#afr-data-type,#afr-data-breakdown,#afr-data-year').on('change', renderChart)
-    $('#afr-back').on('click',renderChart)
+    $('#afr-back').on('click', renderChart)
 }
 
 function renderSubBreakdown(fund) {
@@ -30,9 +30,9 @@ function renderSubBreakdown(fund) {
     }
     console.log(arr)
     isSubBreakdown = true;
-    var backText = 'Back to ' + type + ' ' + breakdown;
+    var backText = 'Back to Funds';
     $('#afr-back').text(backText).show();
-    pieChart(title, type, arr)
+    pieChart(title, type, arr, false)
 }
 
 function renderChart() {
@@ -61,7 +61,7 @@ function renderChart() {
                 arr.push([fund, AFRData[year][type][fund].Total])
             }
         }
-        pieChart(title, type, arr)
+        pieChart(title, type, arr, true)
     }
     if (breakdown === 'Over Time') {
         $('#afr-data-year').attr('disabled', 'disabled')
@@ -112,7 +112,7 @@ function populateYears() {
     }
 }
 
-function pieChart(title, type, arr) {
+function pieChart(title, type, arr, cursor) {
 
     console.log('Pie Chart...')
 
@@ -133,14 +133,19 @@ function pieChart(title, type, arr) {
     var chart = new google.visualization.PieChart(document.getElementById('afr-chart'));
     chart.draw(data, options);
     google.visualization.events.addListener(chart, 'select', function() {
-        if(isSubBreakdown == false){
-           var selection = chart.getSelection()[0];
-        var label = data.getFormattedValue(selection.row, 0);
-        console.log(label)
-        renderSubBreakdown(label) 
+        if (isSubBreakdown == false) {
+            var selection = chart.getSelection()[0];
+            var label = data.getFormattedValue(selection.row, 0);
+            console.log(label)
+            renderSubBreakdown(label)
         }
-        
+
     });
+    if (cursor == true) {
+        google.visualization.events.addListener(chart, 'onmouseover', cursorPointer);
+        google.visualization.events.addListener(chart, 'onmouseout', cursorDefault);
+    }
+
 }
 
 function columnChart(title, type, arr) {
@@ -178,6 +183,16 @@ function doubleColumnChart(title, subType1, subType2, arr) {
     // Instantiate and draw our chart, passing in some options.
     var chart = new google.visualization.BarChart(document.getElementById('afr-chart'));
     chart.draw(data, options);
+}
+
+function cursorPointer() {
+    $('#afr-chart').css('cursor', 'pointer')
+    console.log('cursorPointer')
+}
+
+function cursorDefault() {
+    $('#afr-chart').css('cursor', 'default')
+    console.log('cursorDefault')
 }
 /*
 function getIncomeData() {
