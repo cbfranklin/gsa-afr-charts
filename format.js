@@ -1,18 +1,21 @@
 var fs = require('fs');
+var XLSX = require('xlsx')
 
-var incomeData, assetsData, income = {},
-    assets = {}, allData = {};
+var income = {},
+    assets = {},
+    all = {};
 
-fs.readFile(__dirname + '/json/income.json', 'utf8', function(err, data) {
-    if (err) throw err;
-    incomeData = JSON.parse(data)
-    fs.readFile(__dirname + '/json/assets.json', 'utf8', function(err, data) {
-        if (err) throw err;
-        assetsData = JSON.parse(data)
-        processData(incomeData, allData, 'incomeProcessedAll')
-        processData(assetsData, allData, 'assetsProcessedAll')
-    });
-});
+var workbook = XLSX.readFile('xls/FinancialData2015_-_FY15_data.xlsx');
+//console.log(workbook.SheetNames)
+
+var incomeData = XLSX.utils.sheet_to_json(workbook.Sheets['Net Income(Cost)']);
+var assetsData = XLSX.utils.sheet_to_json(workbook.Sheets['Net Assets(Liabilities)']);
+
+var allData = incomeData.concat(assetsData);
+
+//processData(incomeData, income, 'income')
+//processData(assetsData, assets, 'assets')
+processData(allData, all, 'all')
 
 function processData(a, b, o) {
     //convert to nested json
@@ -24,12 +27,15 @@ function processData(a, b, o) {
         var fund = a[i]['Fund'];
         if (!b[year][category][fund]) b[year][category][fund] = {};
         var level1 = a[i]['Level 1'];
-        var amount = parseFloat(a[i]['Amount'].replace('(', '-').replace(')', ''))
+        if(typeof a[i].Amount == 'undefined'){ a[i].Amount = '0'; console.log('Undefined value in :',year,category,fund,level1,':','replaced with zero.')}
+        var amount = parseFloat(a[i].Amount.replace('(', '').replace(')', '').replace(',', ''))
         if (!a[i]['Level 2']) {
             b[year][category][fund][level1] = amount;
         } else {
             var level2 = a[i]['Level 2'];
-            if (!b[year][category][fund][level1]) b[year][category][fund][level1] = {};
+            if (!b[year][category][fund][level1]) {
+                b[year][category][fund][level1] = {}
+            }
             b[year][category][fund][level1][level2] = amount;
         }
     }
@@ -37,21 +43,17 @@ function processData(a, b, o) {
     //level 1 totals
     for (var year in b) {
         if (b.hasOwnProperty(year)) {
-            //console.log(year)
             for (var type in b[year]) {
                 if (b[year].hasOwnProperty(type)) {
-                    //console.log(type)
                     for (var fund in b[year][type]) {
                         if (b[year][type].hasOwnProperty(fund)) {
-                            //console.log(fund)
                             for (var level1 in b[year][type][fund]) {
-                                if (b[year][type][fund].hasOwnProperty(level1)) {
-                                    //console.log(level1)
+                                if (b[year][type][fund].hasOwnProperty(level1) && level1 !== 'Total') {
                                     for (var level2 in b[year][type][fund][level1]) {
                                         if (b[year][type][fund][level1].hasOwnProperty(level2)) {
-                                            //console.log(level2)
-                                            //console.log(b[year][type][fund][level1][level2])
-                                            if (!b[year][type][fund][level1].Total) b[year][type][fund][level1].Total = 0;
+                                            if (!b[year][type][fund][level1].Total) {
+                                                b[year][type][fund][level1].Total = 0
+                                            }
                                             b[year][type][fund][level1].Total += b[year][type][fund][level1][level2]
                                         }
                                     }
@@ -66,16 +68,15 @@ function processData(a, b, o) {
     //fund totals
     for (var year in b) {
         if (b.hasOwnProperty(year)) {
-            //console.log(year)
             for (var type in b[year]) {
                 if (b[year].hasOwnProperty(type)) {
-                    //console.log(type)
                     for (var fund in b[year][type]) {
                         if (b[year][type].hasOwnProperty(fund)) {
-                            //console.log(fund)
                             for (var level1 in b[year][type][fund]) {
-                                if (b[year][type][fund].hasOwnProperty(level1)) {
-                                    if (!b[year][type][fund].Total) b[year][type][fund].Total = 0;
+                                if (b[year][type][fund].hasOwnProperty(level1) && level1 !== 'Total') {
+                                    if (!b[year][type][fund].Total) {
+                                        b[year][type][fund].Total = 0
+                                    }
                                     if (typeof b[year][type][fund][level1] === 'object') {
                                         b[year][type][fund].Total += b[year][type][fund][level1].Total
                                     } else {
@@ -92,14 +93,13 @@ function processData(a, b, o) {
     //type totals
     for (var year in b) {
         if (b.hasOwnProperty(year)) {
-            //console.log(year)
             for (var type in b[year]) {
                 if (b[year].hasOwnProperty(type)) {
-                    //console.log(type)
                     for (var fund in b[year][type]) {
-                        if (b[year][type].hasOwnProperty(fund)) {
-                            //console.log(fund)
-                            if (!b[year][type].Total) b[year][type].Total = 0;
+                        if (b[year][type].hasOwnProperty(fund) && fund !== 'Total') {
+                            if (!b[year][type].Total) {
+                                b[year][type].Total = 0
+                            }
                             b[year][type].Total += b[year][type][fund].Total
                         }
                     }
@@ -110,6 +110,6 @@ function processData(a, b, o) {
 
     fs.writeFile('json/' + o + '.json', JSON.stringify(b), function(err) {
         if (err) throw err;
-        console.log('Saved');
+        console.log('Saved',o+'.json');
     });
 }
