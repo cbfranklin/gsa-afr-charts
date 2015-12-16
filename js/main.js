@@ -7,7 +7,9 @@ var chartColors = {
     redWhiteBlue: ['#9D3E39', '#245286', '#999999'],
     monoBlue: ['#245286', '#58779A', '#3981D2', '#163353', '#78A2D2'],
     monoRed: ['#9D3E39', '#AD7673', '#E95C55', '#6A2A26', '#E99F9B'],
-    monoWhite: ['#CCCCCC', '#A1A1A1', '#E5E5E5', '#C2C2C2', '#9C9C9C']
+    monoWhite: ['#CCCCCC', '#A1A1A1', '#E5E5E5', '#C2C2C2', '#9C9C9C'],
+    red: ['#9D3E39'],
+    blue: ['#245286']
 }
 
 
@@ -108,12 +110,23 @@ function renderChart() {
         } else {
             var data = AFRData;
             var arr = [];
-            for (year in data) {
-                if (data.hasOwnProperty(year)) {
-                    arr.push([year, AFRData[year][type].Total])
+            if (type === 'Assets' || type === 'Revenues') {
+                for (year in data) {
+                    if (data.hasOwnProperty(year)) {
+                        arr.push([year, AFRData[year][type].Total])
+                    }
+                }
+                var color = chartColors.blue
+            }
+            if (type === 'Liabilities' || type === 'Expenses') {
+                var color = chartColors.red
+                for (year in data) {
+                    if (data.hasOwnProperty(year)) {
+                        arr.push([year, AFRData[year][type].Total * -1])
+                    }
                 }
             }
-            columnChart(title, type, arr)
+            columnChart(title, type, arr, color)
         }
     }
 }
@@ -191,7 +204,7 @@ function pieChart(title, type, arr, colors, textColor, cursor) {
 
 }
 
-function columnChart(title, type, arr) {
+function columnChart(title, type, arr, color) {
     // Create the data table.
     var data = new google.visualization.DataTable();
     data.addColumn('string', 'Fund');
@@ -211,7 +224,7 @@ function columnChart(title, type, arr) {
     var options = {
         'title': title,
         'fontName': 'Source Sans Pro',
-        'colors': chartColors.redWhiteBlue
+        'colors': color
     };
 
     // Instantiate and draw our chart, passing in some options.
