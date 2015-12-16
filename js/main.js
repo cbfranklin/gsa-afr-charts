@@ -8,7 +8,7 @@ var chartColors = {
     redWhiteBlue: ['#9D3E39', '#245286', '#999999'],
     monoBlue: ['#245286', '#58779A', '#3981D2', '#163353', '#78A2D2', '#152F4C', '#4093F0'],
     monoRed: ['#9D3E39', '#AD7673', '#E95C55', '#6A2A26', '#E99F9B', '#451B19', '#C74F48'],
-    monoWhite: ['#CCCCCC', '#A1A1A1', '#E5E5E5', '#C2C2C2', '#9C9C9C', '#BBBBBB', '#777777','#666666'],
+    monoWhite: ['#DDDDDD', '#AAAAAA', '#888888', '#BBBBBB', '#999999', '#BBBBBB', '#777777','#CCCCCC'],
     red: ['#9D3E39'],
     blue: ['#245286']
 }
