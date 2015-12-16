@@ -6,9 +6,9 @@ google.charts.setOnLoadCallback(googleReady);
 
 var chartColors = {
     redWhiteBlue: ['#9D3E39', '#245286', '#999999'],
-    monoBlue: ['#245286', '#58779A', '#3981D2', '#163353', '#78A2D2'],
-    monoRed: ['#9D3E39', '#AD7673', '#E95C55', '#6A2A26', '#E99F9B'],
-    monoWhite: ['#CCCCCC', '#A1A1A1', '#E5E5E5', '#C2C2C2', '#9C9C9C'],
+    monoBlue: ['#245286', '#58779A', '#3981D2', '#163353', '#78A2D2', '#152F4C', '#4093F0'],
+    monoRed: ['#9D3E39', '#AD7673', '#E95C55', '#6A2A26', '#E99F9B', '#451B19', '#C74F48'],
+    monoWhite: ['#CCCCCC', '#A1A1A1', '#E5E5E5', '#C2C2C2', '#9C9C9C', '#AAAAAA', '#777777'],
     red: ['#9D3E39'],
     blue: ['#245286']
 }
@@ -40,10 +40,10 @@ function renderSubBreakdown(fund) {
     var arr = [];
     for (subFund in data) {
         if (data.hasOwnProperty(subFund) && subFund !== "Total") {
-            if(typeof AFRData[year][type][fund][subFund] == 'object'){
+            if (typeof AFRData[year][type][fund][subFund] == 'object') {
                 var val = AFRData[year][type][fund][subFund].Total
             }
-            if(typeof AFRData[year][type][fund][subFund] == 'number'){
+            if (typeof AFRData[year][type][fund][subFund] == 'number') {
                 var val = AFRData[year][type][fund][subFund]
             }
             arr.push([subFund, val])
@@ -92,11 +92,11 @@ function renderChart() {
                 arr.push([fund, AFRData[year][type][fund].Total])
             }
         }
-        console.log('unsorted',arr)
-        arr = arr.sort(function(a,b){
+        console.log('unsorted', arr)
+        arr = arr.sort(function(a, b) {
             return a[0] > b[0]
         })
-        console.log('sorted',arr)
+        console.log('sorted', arr)
         pieChart(title, type, arr, chartColors.redWhiteBlue, 'white', true)
     }
     if (breakdown === 'Over Time') {
@@ -261,6 +261,7 @@ function doubleColumnChart(title, subType1, subType2, arr) {
     })
 
     formatter.format(data, 1);
+    formatter.format(data, 2);
     // Set chart options
     var options = {
         'title': title,
