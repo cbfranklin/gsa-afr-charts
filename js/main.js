@@ -1,6 +1,7 @@
 google.charts.load('current', {
     packages: ['corechart']
 });
+
 google.charts.setOnLoadCallback(googleReady);
 
 var chartColors = {
@@ -38,10 +39,21 @@ function renderSubBreakdown(fund) {
     var title = fund + ' ' + type + ' ' + breakdown + ', ' + year;
     var arr = [];
     for (subFund in data) {
+        console.log(subFund)
         if (data.hasOwnProperty(subFund) && subFund !== "Total") {
-            arr.push([subFund, AFRData[year][type][fund][subFund]])
+            if(typeof AFRData[year][type][fund][subFund] == 'object'){
+                console.log('object')
+                var val = AFRData[year][type][fund][subFund].Total
+            }
+            if(typeof AFRData[year][type][fund][subFund] == 'number'){
+                console.log('string')
+                var val = AFRData[year][type][fund][subFund]
+            }
+            console.log(val)
+            arr.push([subFund, val])
         }
     }
+    console.log(arr)
     currentChart.isSubBreakdown = true;
     var textColor = 'white'
     if (fund === 'Federal Buildings Fund') {
@@ -259,7 +271,7 @@ function doubleColumnChart(title, subType1, subType2, arr) {
         'isStacked': 'true',
         'titleTextStyle': {
             'fontSize': 18
-        },
+        }
     };
 
     // Instantiate and draw our chart, passing in some options.
