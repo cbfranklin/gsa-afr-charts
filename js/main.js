@@ -224,7 +224,10 @@ function columnChart(title, type, arr, color) {
     var options = {
         'title': title,
         'fontName': 'Source Sans Pro',
-        'colors': color
+        'colors': color,
+        'titleTextStyle': {
+            'fontSize': 18
+        }
     };
 
     // Instantiate and draw our chart, passing in some options.
