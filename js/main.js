@@ -4,10 +4,10 @@ google.charts.load('current', {
 google.charts.setOnLoadCallback(googleReady);
 
 var chartColors = {
-    redWhiteBlue: ['#245286', '#9D3E39', '#999999'],
+    redWhiteBlue: ['#9D3E39', '#245286', '#999999'],
     monoBlue: ['#245286', '#58779A', '#3981D2', '#163353', '#78A2D2'],
     monoRed: ['#9D3E39', '#AD7673', '#E95C55', '#6A2A26', '#E99F9B'],
-    monoWhite: ['#CCCCCC','#A1A1A1','#E5E5E5','#C2C2C2','#9C9C9C']
+    monoWhite: ['#CCCCCC', '#A1A1A1', '#E5E5E5', '#C2C2C2', '#9C9C9C']
 }
 
 
@@ -42,13 +42,13 @@ function renderSubBreakdown(fund) {
     }
     currentChart.isSubBreakdown = true;
     var textColor = 'white'
-    if(fund === 'Federal Buildings Fund'){
-        var colors = chartColors.monoBlue
-    }
-    if(fund === 'Acquisition Services Fund'){
+    if (fund === 'Federal Buildings Fund') {
         var colors = chartColors.monoRed
     }
-    if(fund === 'Other Funds'){
+    if (fund === 'Acquisition Services Fund') {
+        var colors = chartColors.monoBlue
+    }
+    if (fund === 'Other Funds') {
         var colors = chartColors.monoWhite;
         textColor = 'black';
     }
@@ -101,10 +101,10 @@ function renderChart() {
             }
             for (year in data) {
                 if (data.hasOwnProperty(year)) {
-                    arr.push([year, AFRData[year][subType1].Total* -1, AFRData[year][subType2].Total ])
+                    arr.push([year, AFRData[year][subType1].Total * -1, AFRData[year][subType2].Total])
                 }
             }
-            doubleColumnChart(title, subType2, subType1, arr)
+            doubleColumnChart(title, subType1, subType2, arr)
         } else {
             var data = AFRData;
             var arr = [];
