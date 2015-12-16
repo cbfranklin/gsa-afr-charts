@@ -39,28 +39,23 @@ function renderSubBreakdown(fund) {
     var title = fund + ' ' + type + ' ' + breakdown + ', ' + year;
     var arr = [];
     for (subFund in data) {
-        console.log(subFund)
         if (data.hasOwnProperty(subFund) && subFund !== "Total") {
             if(typeof AFRData[year][type][fund][subFund] == 'object'){
-                console.log('object')
                 var val = AFRData[year][type][fund][subFund].Total
             }
             if(typeof AFRData[year][type][fund][subFund] == 'number'){
-                console.log('string')
                 var val = AFRData[year][type][fund][subFund]
             }
-            console.log(val)
             arr.push([subFund, val])
         }
     }
-    console.log(arr)
     currentChart.isSubBreakdown = true;
     var textColor = 'white'
     if (fund === 'Federal Buildings Fund') {
-        var colors = chartColors.monoRed
+        var colors = chartColors.monoBlue
     }
     if (fund === 'Acquisition Services Fund') {
-        var colors = chartColors.monoBlue
+        var colors = chartColors.monoRed
     }
     if (fund === 'Other Funds') {
         var colors = chartColors.monoWhite;
@@ -97,6 +92,11 @@ function renderChart() {
                 arr.push([fund, AFRData[year][type][fund].Total])
             }
         }
+        console.log('unsorted',arr)
+        arr = arr.sort(function(a,b){
+            return a[0] > b[0]
+        })
+        console.log('sorted',arr)
         pieChart(title, type, arr, chartColors.redWhiteBlue, 'white', true)
     }
     if (breakdown === 'Over Time') {
@@ -202,8 +202,6 @@ function pieChart(title, type, arr, colors, textColor, cursor) {
     google.visualization.events.addListener(chart, 'select', function() {
         if (currentChart.isSubBreakdown == false) {
             var selection = chart.getSelection()[0];
-            console.log('hey')
-            console.log(chart.getSelection())
             var label = data.getFormattedValue(selection.row, 0);
             renderSubBreakdown(label)
         }
