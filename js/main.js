@@ -4,12 +4,14 @@ google.charts.load('current', {
 google.charts.setOnLoadCallback(googleReady);
 
 var chartColors = {
-    redWhiteBlue: ['#245286','#9D3E39','#999999'],
-    monoBlue: ['#245286','#58779A','#3981D2','#163353','#78A2D2'],
-    monoRed: ['#9D3E39','#AD7673','#E95C55','#6A2A26','#E99F9B']
+    redWhiteBlue: ['#245286', '#9D3E39', '#999999'],
+    monoBlue: ['#245286', '#58779A', '#3981D2', '#163353', '#78A2D2'],
+    monoRed: ['#9D3E39', '#AD7673', '#E95C55', '#6A2A26', '#E99F9B']
 }
 
 var isSubBreakdown = false;
+
+
 
 function googleReady() {
     /*$.when(getIncomeData(), getAssetsData()).done(function() {
@@ -62,7 +64,7 @@ function renderChart() {
         var data = AFRData[year][type];
         var arr = [];
         for (fund in data) {
-            if (data.hasOwnProperty(fund)) {
+            if (data.hasOwnProperty(fund) && fund !== "Total") {
                 arr.push([fund, AFRData[year][type][fund].Total])
             }
         }
@@ -84,10 +86,10 @@ function renderChart() {
             }
             for (year in data) {
                 if (data.hasOwnProperty(year)) {
-                    arr.push([year, AFRData[year][subType2].Total, AFRData[year][subType1].Total * -1])
+                    arr.push([year, AFRData[year][subType1].Total* -1, AFRData[year][subType2].Total ])
                 }
             }
-            doubleColumnChart(title, subType1, subType2, arr)
+            doubleColumnChart(title, subType2, subType1, arr)
         } else {
             var data = AFRData;
             var arr = [];
@@ -122,12 +124,35 @@ function pieChart(title, type, arr, colors, cursor) {
     data.addColumn('number', type);
     data.addRows(arr);
 
+    var formatter = new google.visualization.NumberFormat({
+        prefix: '$',
+        suffix: 'M',
+        fractionDigits: 0,
+        negativeParens: true
+    })
+
+    formatter.format(data, 1);
+
     // Set chart options
     var options = {
         'title': title,
         'is3D': true,
         'fontName': 'Source Sans Pro',
-        'colors': colors
+        'colors': colors,
+        'backgroundColor': {
+            'fill': 'transparent'
+        },
+        'pieSliceText': 'value',
+        'pieSliceTextStyle': {
+            fontSize: 14
+        },
+        'tooltip': {
+            'showColorCode': true
+        },
+        'titleTextStyle': {
+            'fontSize': 18
+        },
+        'sliceVisibilityThreshold': 0
     };
 
     // Instantiate and draw our chart, passing in some options.
@@ -136,6 +161,8 @@ function pieChart(title, type, arr, colors, cursor) {
     google.visualization.events.addListener(chart, 'select', function() {
         if (isSubBreakdown == false) {
             var selection = chart.getSelection()[0];
+            console.log('hey')
+            console.log(chart.getSelection())
             var label = data.getFormattedValue(selection.row, 0);
             renderSubBreakdown(label)
         }
@@ -154,6 +181,15 @@ function columnChart(title, type, arr) {
     data.addColumn('string', 'Fund');
     data.addColumn('number', type);
     data.addRows(arr);
+
+    var formatter = new google.visualization.NumberFormat({
+        prefix: '$',
+        suffix: 'M',
+        fractionDigits: 0,
+        negativeParens: true
+    })
+
+    formatter.format(data, 1);
 
     // Set chart options
     var options = {
@@ -175,11 +211,23 @@ function doubleColumnChart(title, subType1, subType2, arr) {
     data.addColumn('number', subType2);
     data.addRows(arr);
 
+    var formatter = new google.visualization.NumberFormat({
+        prefix: '$',
+        suffix: 'M',
+        fractionDigits: 0,
+        negativeParens: true
+    })
+
+    formatter.format(data, 1);
     // Set chart options
     var options = {
         'title': title,
         'fontName': 'Source Sans Pro',
-        'colors': chartColors.redWhiteBlue
+        'colors': chartColors.redWhiteBlue,
+        'isStacked': 'true',
+        'titleTextStyle': {
+            'fontSize': 18
+        },
     };
 
     // Instantiate and draw our chart, passing in some options.
