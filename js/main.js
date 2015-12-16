@@ -6,10 +6,14 @@ google.charts.setOnLoadCallback(googleReady);
 var chartColors = {
     redWhiteBlue: ['#245286', '#9D3E39', '#999999'],
     monoBlue: ['#245286', '#58779A', '#3981D2', '#163353', '#78A2D2'],
-    monoRed: ['#9D3E39', '#AD7673', '#E95C55', '#6A2A26', '#E99F9B']
+    monoRed: ['#9D3E39', '#AD7673', '#E95C55', '#6A2A26', '#E99F9B'],
+    monoWhite: ['#CCCCCC','#A1A1A1','#E5E5E5','#C2C2C2','#9C9C9C']
 }
 
-var isSubBreakdown = false;
+
+var currentChart = {
+    isSubBreakdown: false
+}
 
 
 
@@ -36,14 +40,25 @@ function renderSubBreakdown(fund) {
             arr.push([subFund, AFRData[year][type][fund][subFund]])
         }
     }
-    isSubBreakdown = true;
+    currentChart.isSubBreakdown = true;
+    var textColor = 'white'
+    if(fund === 'Federal Buildings Fund'){
+        var colors = chartColors.monoBlue
+    }
+    if(fund === 'Acquisition Services Fund'){
+        var colors = chartColors.monoRed
+    }
+    if(fund === 'Other Funds'){
+        var colors = chartColors.monoWhite;
+        textColor = 'black';
+    }
     var backText = 'Back to Funds';
     $('#afr-back').text(backText).show();
-    pieChart(title, type, arr, chartColors.monoRed, false)
+    pieChart(title, type, arr, colors, textColor, false)
 }
 
 function renderChart() {
-    isSubBreakdown = false;
+    currentChart.isSubBreakdown = false;
     var type = $('#afr-data-type').val();
     //enable & disable controls where necessary
     $('#afr-back').hide();
@@ -68,7 +83,7 @@ function renderChart() {
                 arr.push([fund, AFRData[year][type][fund].Total])
             }
         }
-        pieChart(title, type, arr, chartColors.redWhiteBlue, true)
+        pieChart(title, type, arr, chartColors.redWhiteBlue, 'white', true)
     }
     if (breakdown === 'Over Time') {
         $('#afr-data-year').attr('disabled', 'disabled')
@@ -116,7 +131,7 @@ function populateYears() {
     }
 }
 
-function pieChart(title, type, arr, colors, cursor) {
+function pieChart(title, type, arr, colors, textColor, cursor) {
 
     // Create the data table.
     var data = new google.visualization.DataTable();
@@ -144,7 +159,8 @@ function pieChart(title, type, arr, colors, cursor) {
         },
         'pieSliceText': 'value',
         'pieSliceTextStyle': {
-            fontSize: 14
+            fontSize: 14,
+            color: textColor
         },
         'tooltip': {
             'showColorCode': true
@@ -159,7 +175,7 @@ function pieChart(title, type, arr, colors, cursor) {
     var chart = new google.visualization.PieChart(document.getElementById('afr-chart'));
     chart.draw(data, options);
     google.visualization.events.addListener(chart, 'select', function() {
-        if (isSubBreakdown == false) {
+        if (currentChart.isSubBreakdown == false) {
             var selection = chart.getSelection()[0];
             console.log('hey')
             console.log(chart.getSelection())
